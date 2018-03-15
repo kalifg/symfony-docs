@@ -318,7 +318,7 @@ The following block shows all possible configuration keys:
                 charset:              UTF8
                 logging:              '%kernel.debug%'
                 platform_service:     MyOwnDatabasePlatformService
-                server_version:       5.6
+                server_version:       '5.6'
                 mapping_types:
                     enum: string
                 types:
